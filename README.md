@@ -14,7 +14,8 @@ This project is based on our research paper published in an IEEE conference (Pun
 
 ## 🏗️ System Architecture Diagram
 
-"C:\Users\YADNESH\Pictures\Screenshots\Screenshot 2025-09-17 193300.png"
+<img width="1541" height="536" alt="Screenshot 2025-09-17 193300" src="https://github.com/user-attachments/assets/3d57cb84-e777-4ead-992a-77695aed58a9" />
+
 
 This diagram shows the complete pipeline of the system including image preprocessing, segmentation, CNN backbone, and confidence calibration layer.
 
