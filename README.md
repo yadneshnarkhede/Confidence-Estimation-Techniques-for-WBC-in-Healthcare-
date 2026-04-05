@@ -65,7 +65,7 @@ This is achieved using:
   * Pro‑B ALL
 * Images resized to **224 × 224**
 * Dataset split into training, validation, and testing sets
-
+Dataset Link: https://www.kaggle.com/datasets/mehradaria/leukemia
 ---
 
 ## 🧹 Important Pre‑processing Steps
@@ -102,12 +102,15 @@ Both original and segmented images are fed into the model to maximize feature le
 
 ## 📊 Performance Highlights
 
-* ~98–99% validation accuracy with selected backbone
+* ~90% validation accuracy with selected backbone
 * Reliable generalization across unseen samples
 * Reduced over‑confident wrong predictions using calibration
 * Improved interpretability for clinical usage
 
 ---
+## outputs 
+<img width="1909" height="1066" alt="Screenshot 2025-10-27 143740" src="https://github.com/user-attachments/assets/56f2a3c8-e879-45c8-b47e-ceb6a28841f5" />
+
 
 ## 🔍 Confidence Estimation (Key Contribution)
 
@@ -137,7 +140,7 @@ This acts as a **safety layer** for medical AI systems.
 This implementation is based on the paper:
 
 **“Confidence Estimation Techniques for White Blood Cell Classification in Healthcare”**
-
+link of research Paper : https://ieeexplore.ieee.org/document/11379297
 Published in an IEEE conference (Pune Section) by authors from G H Raisoni College of Engineering and Management, Pune.
 
 ---
